@@ -86,4 +86,4 @@ python cryptocurrency_price_tracker.py
 
 ## Author
 
-Developed using Python, Selenium, and Pandas for real-time cryptocurrency market analysis.
+Santhiya MUniyandi
