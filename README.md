@@ -86,4 +86,4 @@ python cryptocurrency_price_tracker.py
 
 ## Author
 
-Santhiya MUniyandi
+Santhiya Muniyandi
